@@ -3,7 +3,8 @@
 ## Framework / Tool
 - TensorFlow and tf.keras
 
-
+## Installation
+https://www.tensorflow.org/install/pip
 
 ## ML with Keras
 - Keras is a Sequential model
